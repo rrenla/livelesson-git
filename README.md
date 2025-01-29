@@ -21,6 +21,7 @@
 'git switch main': go back to main
 'git checkout <HASH OR HEAD~> <FILE>': restores file
 
+# remotes
 
 'git remote add <NAME> <URL>': adds the <URL> as a remote with the name <NAME>
 
@@ -28,3 +29,5 @@
 'git remote rm <NAME>': removes remote called NAME 
 
 'git pull <WHERE><WHAT>': pulls the <WHAT> branch in <WHERE> to local comupter
+
+
