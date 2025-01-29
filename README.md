@@ -25,3 +25,5 @@
 
 'git remove -v': look at': pushes what to where
 'git remote rm <NAME>': removes remote called NAME 
+
+'git pull <WHERE><WHAT>': pulls the <WHAT> branch in <WHERE> to local comupter
