@@ -21,3 +21,7 @@
 'git checkout <HASH OR HEAD~> <FILE>': restores file
 
 
+'git remote add <NAME> <URL>': adds the <URL> as a remote with the name <NAME>
+
+'git remove -v': look at': pushes what to where
+'git remote rm <NAME>': removes remote called NAME 
