@@ -46,3 +46,4 @@
 commits from 'git merge' can be automaitcally combined
 
 branch commit 1
+branch commit 2
