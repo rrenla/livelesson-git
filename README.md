@@ -32,4 +32,9 @@
 
 'git pull <WHERE><WHAT>': pulls the <WHAT> branch in <WHERE> to local comupter
 
-
+## branches
+'git branch <NAME>': create branch <NAME> where you are (HEAD)
+'git switch <NAME>': move to the branch <NAME>
+'git checkout <NAME>': also move to the branch <NAME>
+'git switch -c <NAME>': create and move to the branch <NAME> in 1 command
+'git checkout -b <NAME>': also create and move to branch <NAME> in 1 command
