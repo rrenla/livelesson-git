@@ -44,3 +44,5 @@
 'git rebase <BRANCH>': incorporate changes from <BRANCH> into current branch
 
 commits from 'git merge' can be automaitcally combined
+
+branch commit 1
