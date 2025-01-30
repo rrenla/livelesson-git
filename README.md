@@ -46,3 +46,4 @@
 commits from 'git merge' can be automaitcally combined
 
 main commit 1
+main commit 2
