@@ -32,7 +32,11 @@
 
 'git pull <WHERE><WHAT>': pulls the <WHAT> branch in <WHERE> to local comupter
 
+
 ## Branches - main commit 3
+
+## Branches - branch commit 3 
+
 
 'git branch <NAME>': create branch <NAME> where you are (HEAD)
 'git switch <NAME>': move to the branch <NAME>
