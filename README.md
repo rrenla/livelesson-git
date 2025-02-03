@@ -56,3 +56,4 @@ commits from 'git merge' can be automaitcally combined
 'git rebase --abort': undo git rebase step
 
 main commit 1
+main commit 2
