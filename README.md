@@ -33,10 +33,7 @@
 'git pull <WHERE><WHAT>': pulls the <WHAT> branch in <WHERE> to local comupter
 
 
-## BRANCHES - main commit 3
-
-## BRANCHES - branch commit 3 
-
+## Branches
 
 'git branch <NAME>': create branch <NAME> where you are (HEAD)
 'git switch <NAME>': move to the branch <NAME>
@@ -55,10 +52,6 @@ commits from 'git merge' can be automaitcally combined
 'git rebase --continue': move to next commit in rebase
 'git rebase --abort': undo git rebase step
 
-
-main commit 1
-main commit 2
-
-branch commit 1
-branch commit 2
-
+'git rebase -i <COMMIT> HEAD~ or <HASH>': go into interactive rebase
+- you can make multiple commit changes here, e.g., 'squash'/'s'
+'git rebase -i <HASH>^': use ^ to include that commit in interactive rebase
