@@ -33,7 +33,7 @@
 'git pull <WHERE><WHAT>': pulls the <WHAT> branch in <WHERE> to local comupter
 
 
-## Branches - main commit 3
+## BRANCHES - main commit 3
 
 ## Branches - branch commit 3 
 
