@@ -35,7 +35,7 @@
 
 ## BRANCHES - main commit 3
 
-## Branches - branch commit 3 
+## BRANCHES - branch commit 3 
 
 
 'git branch <NAME>': create branch <NAME> where you are (HEAD)
@@ -55,5 +55,10 @@ commits from 'git merge' can be automaitcally combined
 'git rebase --continue': move to next commit in rebase
 'git rebase --abort': undo git rebase step
 
+
 main commit 1
 main commit 2
+
+branch commit 1
+branch commit 2
+
