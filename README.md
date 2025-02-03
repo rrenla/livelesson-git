@@ -55,3 +55,5 @@ commits from 'git merge' can be automaitcally combined
 'git rebase -i <COMMIT> HEAD~ or <HASH>': go into interactive rebase
 - you can make multiple commit changes here, e.g., 'squash'/'s'
 'git rebase -i <HASH>^': use ^ to include that commit in interactive rebase
+
+'git stash' or 'git commit': to save work before moving branches
