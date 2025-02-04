@@ -81,3 +81,4 @@
 
 - each person can work on their own branch independently
 - feature branches won't show conflicts until one of them is merged first
+- in settings you can set up branch protection roles to prevent direct changes
