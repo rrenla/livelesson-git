@@ -65,3 +65,5 @@ commits from 'git merge' can be automaitcally combined
 a 'merge' on the remote is called a "pull request" or "merge request"
 --'git push <WHERE> <WHAT>'
 to update a PR, we make the changes to the branch locally and re-push
+
+a merge conflict can happen after a PR is issued
