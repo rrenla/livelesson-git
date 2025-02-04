@@ -80,3 +80,4 @@
 - collaborators will then 'git clone <URL>' to get repo on their computer
 
 - each person can work on their own branch independently
+- feature branches won't show conflicts until one of them is merged first
