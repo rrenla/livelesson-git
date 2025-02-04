@@ -71,3 +71,6 @@ a merge conflict can happen after a PR is issued
 'git fetch': update your git log without making any changes to your files
 'git fetch --prune': update your log and remove deleted remote branches
 
+'git push -f <WHERE> <WHAT>': force push to the remote <WHERE> the branch <WHAT>
+'git push --force-with-lease <WHERE> <WHAT>': more mindful of collaborators
+
