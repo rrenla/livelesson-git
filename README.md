@@ -74,5 +74,7 @@
 - 'git push -f <WHERE> <WHAT>': force push to the remote <WHERE> the branch <WHAT>
 - 'git push --force-with-lease <WHERE> <WHAT>': more mindful of collaborators
 
+## Collaborators
+
 - add collaborators in repository settings
 - collaborators will then 'git clone <URL>' to get repo on their computer
