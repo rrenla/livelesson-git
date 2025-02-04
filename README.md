@@ -78,3 +78,5 @@
 
 - add collaborators in repository settings
 - collaborators will then 'git clone <URL>' to get repo on their computer
+
+- each person can work on their own branch independently
