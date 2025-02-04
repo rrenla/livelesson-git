@@ -61,3 +61,6 @@ commits from 'git merge' can be automaitcally combined
 'git stash list': see your stashed commits
 'git stash apply': apply your last stashed commit
 'git stash clear': clean up your stashes
+
+a 'merge' on the remote is called a "pull request" or "merge request"
+'git push <WHERE> <WHAT>'
