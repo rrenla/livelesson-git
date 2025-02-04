@@ -63,4 +63,4 @@ commits from 'git merge' can be automaitcally combined
 'git stash clear': clean up your stashes
 
 a 'merge' on the remote is called a "pull request" or "merge request"
-'git push <WHERE> <WHAT>'
+--'git push <WHERE> <WHAT>'
